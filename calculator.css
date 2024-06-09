@@ -1,0 +1,38 @@
+*{
+  box-sizing: border-box;  
+}
+
+body{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 15% 40%;
+    border-radius: 20px;
+}
+
+.button{
+    padding: 20px;
+    font-size: 20px;
+    margin: 5px 5px;
+    border-radius: 10px;
+    
+
+}
+.body h1{
+    font-size: 20px;
+
+}
+
+.input{
+    padding: 30px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+
+#sign{
+    background-color: orange;
+    border-radius: 10px;
+}
